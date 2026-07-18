@@ -52,18 +52,15 @@ http://187.102.210.46/ATV/index.m3u8
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD",ATV [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
-#EXTINF:-1 tvg-id="1492" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png", ATV Sur
-https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD",ATV Sur (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe@SD",ATV Sur (720p)
 https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" ,Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OvacionTV.pe@SD720" tvg-logo="https://i.imgur.com/7Xndgxk.png",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
-http://177.234.249.178:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe@SD72",Canal IPe (720p)
 http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe@SD576",Canal IPe (576p)
