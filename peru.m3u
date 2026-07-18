@@ -61,12 +61,12 @@ https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD720" tvg-logo="https://i.imgur.com/7Xndgxk.png",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalIPe.pe@SD72",Canal IPe (720p)
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD72" tvg-logo="https://i.imgur.com/FI1Hd4E.png",Canal IPe (720p)
 http://187.102.210.46/IPE/index.m3u8
-#EXTINF:-1 tvg-id="CanalIPe.pe@SD576",Canal IPe (576p)
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD576" tvg-logo="https://i.imgur.com/FI1Hd4E.png",Canal IPe (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipemovil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (576p)
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD" tvg-logo="https://i.imgur.com/FI1Hd4E.png",Canal IPe (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD247" tvg-logo="https://i.imgur.com/pu0BSB7.png",Exitosa TV (720p) [Not 24/7]
@@ -118,7 +118,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" tvg-logo="https://i.imgur.com/tyXIHlj.png",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="RT Noticias" tvg-logo="https://i.imgur.com/tyXIHlj.png", RT Noticias
+#EXTINF:-1 tvg-id="691" tvg-name="RT Noticias" tvg-logo="https://i.imgur.com/rt-logo.png", RT Noticias
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
