@@ -1,11 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD1080" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television (1080p)
-http://45.171.108.253:8888/AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@SD7" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
-http://187.102.210.46/ATV/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ (1080p)
-http://45.171.108.253:8888/ATV/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television (720p)
+http://187.102.210.46/AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@HD7" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
+https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" ,Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" ,Global TV
@@ -54,8 +52,6 @@ http://45.181.87.106/TELEMUNDOHD/index.m3u8
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" ,Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@HD7" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
-https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD247" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
@@ -122,12 +118,16 @@ http://181.119.93.83:8000/play/a25t/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD1080" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television (1080p)
+http://45.171.108.253:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png", ATV+
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://i.imgur.com/vr0g3u1.png",America Television (720p)
-http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD720" tvg-logo="https://i.imgur.com/6io0IrX.png" ,TV Peru (720p)
 http://187.102.210.46/TVPERU/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD7" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
+http://187.102.210.46/ATV/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ (1080p)
+http://45.171.108.253:8888/ATV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal de Prueba" group-title="" tvg-logo="", Prueba mundial 2026
