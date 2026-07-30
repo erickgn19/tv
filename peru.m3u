@@ -4,6 +4,8 @@
 http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@HD7" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ (1080p)
+http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" ,Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" ,Global TV
@@ -19,7 +21,6 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" ,PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD1080" tvg-logo="https://i.imgur.com/oBz3CgE.png",RPP TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" ,TV Peru Noticias (576p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
@@ -42,10 +43,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" ,Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-
-#EXTINF:-1 tvg-id="3615" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
-http://45.181.87.106/TELEMUNDOHD/index.m3u8
 
 
 
@@ -120,8 +117,7 @@ https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 http://187.102.210.46/TVPERU/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD7" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
 http://187.102.210.46/ATV/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ (1080p)
-http://45.171.108.253:8888/ATV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalIPe.pe@SD576" tvg-logo="https://i.imgur.com/FI1Hd4E.png",Canal IPe (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -130,6 +126,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipemovil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="3615" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
+http://45.181.87.106/TELEMUNDOHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal de Prueba" group-title="" tvg-logo="", Prueba mundial 2026
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
