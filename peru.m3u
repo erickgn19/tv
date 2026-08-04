@@ -4,8 +4,6 @@
 http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@HD7" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ (1080p)
-http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" ,Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" ,Global TV
@@ -117,7 +115,8 @@ https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 http://187.102.210.46/TVPERU/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD7" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV (720p)
 http://187.102.210.46/ATV/index.m3u8
-
+#EXTINF:-1 tvg-id="ATVPlusMusica.pe@SD1080" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png",ATV+ Musica (1080p)
+http://45.171.108.253:8888/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalIPe.pe@SD576" tvg-logo="https://i.imgur.com/FI1Hd4E.png",Canal IPe (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
